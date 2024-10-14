@@ -11,5 +11,9 @@ namespace MyLibrary
 {
     public class Produt
     {
+        public int Id;
+        public string Name;
+        public decimal UnitPrice;
+        public int UnitsInStock;
     }
 }
