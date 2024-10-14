@@ -9,7 +9,7 @@ using System.Text;
 
 namespace MyLibrary
 {
-    public class Class1
+    public class Produt
     {
     }
 }
