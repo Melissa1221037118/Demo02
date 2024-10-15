@@ -10,7 +10,7 @@ namespace Norwind.Writries
     {
     }
 
-   public  interface IUserActionWriter
+    public void Write(IUserActionWriter action)
     {
     }
 }

@@ -11,4 +11,8 @@
     <PackageReference Include="FluentAssertions" Version="6.12.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Norwind.Writries\Norwind.Writries.csproj" />
+  </ItemGroup>
+
 </Project>

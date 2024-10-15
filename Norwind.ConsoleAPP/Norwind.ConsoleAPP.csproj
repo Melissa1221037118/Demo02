@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\NorthWind.ConsoleApp\NorthWind.Entities.csproj" />
-  </ItemGroup>
-
 </Project>
