@@ -12,5 +12,9 @@ namespace Norwind.Writries
 
     public void Write(IUserActionWriter action)
     {
+        Console.WriteLine("ConsoleWriter: {0}, {1}, {2}",
+
+
+            action.CreatedDateTime, action.User, action.Description);
     }
 }
