@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Norwind.Writries
 {
-    internal class ConsoleWriter
+    internal class ConsoleWriter : IUserActionWriter
+    {
+    }
+
+   public  interface IUserActionWriter
     {
     }
 }
